@@ -4,4 +4,4 @@ x=int(input("Enter the value of X: "))
 y=int(input("Enter the value of Y: "))
 z=int(input("Enter the value of Z: "))
 c=((x*5)+(y*10))//z
-print(" The maximum chocolates Romeo can buy =",c)
+print("The maximum chocolates Romeo can buy =",c)

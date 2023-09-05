@@ -1,0 +1,20 @@
+Sum of two integers
+s=1+2	#3
+
+Difference of two numbers
+d=4-2	#2
+
+Product of two numbers
+p=4*8	#32
+
+Division of two numbers
+d=10/3	#3.3333333333333335
+
+Integer/floor Division of two numbers
+fd=10//3   #3
+
+Reminder of two numbers
+r=10%3	#1
+
+Power of a number
+a=2**3	#8

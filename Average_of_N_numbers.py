@@ -1,4 +1,4 @@
-#Program to find average of n numbers
+# Write a program to find average of n numbers
 n=int(input("Enter the number of elements you want to enter: "))
 print("Enter",n,"numbers: ")
 lst=[]

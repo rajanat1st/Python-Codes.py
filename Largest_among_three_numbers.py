@@ -1,4 +1,4 @@
-# Write program to find the largest among three numbers.
+# Write a program to find the largest among three numbers.
 a,b,c=map(int,input("Enter three numbers: ").split())
 if a>b and a>c:
     print("The largest number is",a)

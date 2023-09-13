@@ -5,5 +5,3 @@ if ch not in str:
     print(f"'{ch}' is a Consonant")
 else:
     print(f"'{ch}' is a Vowel")
-    
-    

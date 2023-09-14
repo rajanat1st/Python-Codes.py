@@ -6,4 +6,3 @@ def arithmetic_operations(m,n):
     print("{}/{}={:.2f}".format(m,n,m/n))
 m,n=map(int,input("Enter any two numbers: ").split())
 arithmetic_operations(m,n)
-    

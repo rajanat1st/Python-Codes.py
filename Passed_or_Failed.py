@@ -32,5 +32,3 @@ if e<=100 and m<=100 and p<=100 and c<=100 and cs<=100:
 else:
     print("\nIndividual subject's marks should not be greater than 100! Please enter valid marks again.")
     result(1)
-
-    

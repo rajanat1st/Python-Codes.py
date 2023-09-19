@@ -6,4 +6,4 @@ if y>0 and y<10:
     sys.exit()
 else:
     y=y%100
-    print("The last two digits of the entered year are",y) 
+    print("The last two digits of the entered year are",y)

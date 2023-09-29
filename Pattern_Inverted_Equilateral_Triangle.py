@@ -1,4 +1,4 @@
-# Print Equilateral Triangle pattern with stars.
+# Print Inverted Equilateral Triangle pattern with stars.
 n=int(input("Enter the number of Rows: "))
 for i in range(1,n+1):
     for j in range(1,i):
